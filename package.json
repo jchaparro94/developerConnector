@@ -1,0 +1,22 @@
+{
+  "name": "developerconnector",
+  "version": "1.0.0",
+  "description": "youtube tutorial",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchaparro94/developerConnector.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jchaparro94/developerConnector/issues"
+  },
+  "homepage": "https://github.com/jchaparro94/developerConnector#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
