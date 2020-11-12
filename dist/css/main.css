@@ -370,8 +370,7 @@ img {
   display: grid;
   grid-template-columns: 1fr 4fr;
   grid-gap: 2rem;
-  align-items: center;
-  padding: 1rem; }
+  align-items: center; }
   .post > div:first-child {
     text-align: center; }
   .post img {
